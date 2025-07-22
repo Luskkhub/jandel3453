@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/DYNSRd90FinPHY6M/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Luskkhub/HUB/refs/heads/main/PETMUTATION"))()
